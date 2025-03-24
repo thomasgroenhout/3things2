@@ -10,6 +10,17 @@
       "StackName": "amplify-3things-dev-f490e",
       "StackId": "arn:aws:cloudformation:us-east-1:634776369427:stack/amplify-3things-dev-f490e/9879dca0-08a3-11f0-8a3a-0e2513589565",
       "AmplifyAppId": "d3o6zvi378anc8"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d3o6zvi378anc8",
+          "type": "manual"
+        }
+      },
+      "auth": {
+        "3thingsac005c01": {}
+      }
     }
   }
 }
