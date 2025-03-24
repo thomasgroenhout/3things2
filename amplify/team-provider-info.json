@@ -20,6 +20,9 @@
       },
       "auth": {
         "3thingsac005c01": {}
+      },
+      "api": {
+        "3things": {}
       }
     }
   }
